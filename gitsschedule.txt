@@ -1,0 +1,10 @@
+½ø¶È±í	schedule;
+
+first£º
+one£º4/4.>09.25
+
+second:
+two:4/4.>13.00
+
+
+eight:1/4>5.37
